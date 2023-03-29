@@ -1,4 +1,3 @@
-const AWS = require("aws-sdk");
 const uploadApi = require("./UploadApi");
 const generateDateRangeArray = require("./generateDateRangeArray");
 
